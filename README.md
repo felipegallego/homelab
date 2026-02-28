@@ -7,6 +7,7 @@ The aim is to have a docker-compose to Manage:
     - online: to think 
 - Home automation: Home Assistant
 
+## Structure
 So the docker containers to manage will be:
 - Navidrome
 - Personal NAS
