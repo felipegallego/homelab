@@ -11,5 +11,5 @@ The aim is to have a docker-compose to Manage:
 So the docker containers to manage will be:
 - Navidrome
 - Personal NAS
-- To think in one to manage movies/series online 
+- *To think in one to manage movies/series online*
 - Home Assistant
