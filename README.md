@@ -9,6 +9,8 @@ The aim is to have a docker-compose to Manage:
 
 ## Structure
 So the docker containers to manage will be:
+- Firewall: controls everything
+- Proxmox: control everything
 - Navidrome
 - Personal NAS
 - *To think in one to manage movies/series online*
