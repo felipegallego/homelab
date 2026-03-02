@@ -6,6 +6,7 @@ The aim is to have a docker-compose to Manage:
     - local: with NAS
     - online: to think 
 - Home automation: Home Assistant
+- VM and containers and backups: Proxmox
 
 ## Structure
 So the docker containers to manage will be:
