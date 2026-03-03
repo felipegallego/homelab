@@ -1,0 +1,8 @@
+Scanner.Schedule = '@every 1h'
+LogLevel = "info"
+SessionTimeout = "24h"
+Agents = "lastfm,spotify,deezer"
+LastFM.ApiKey = "ad7d5745feeeeb72c26f9e4120ba3fca"
+LastFM.Secret = "97ca00fbfdf5945222f6b45daca46c1c"
+Spotify.ID = "8619ae2d3584454b9403a38afe2068ef"
+Spotify.Secret = "0a91391754174b729c2aa45b8c777950"
