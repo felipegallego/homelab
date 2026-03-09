@@ -37,4 +37,4 @@ Otherwise you have to change "local" by the IP of the machine running Navidrome
 *To do:*
 - Add to access it out of the home network with a VPN: TailScale. It will be implemented
 
---
+---
