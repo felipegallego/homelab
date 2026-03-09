@@ -18,3 +18,5 @@ So the docker containers to manage will be:
 - *To think in one to manage movies/series online*
 - Home Assistant: home automation
 - Obsidian: notes and databases (runs local)
+
+## Description of each part:
