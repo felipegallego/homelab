@@ -45,3 +45,11 @@ So the docker containers to manage will be:
 - **Karakeep:** self-hostable bookmark-everything app with AI for the tagging.
 
 # ➡️ Description of each part:
+# ➡️ Status of each part:
+|App|Status|Priority|
+--------------------------
+|Opnsense|not started|high|
+---------------------------
+|Xray|not started|medium|
+-------------------------
+
