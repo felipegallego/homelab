@@ -1,4 +1,4 @@
-# homelab
+# Description
 My personal homelab
 The aim is to have a docker-compose to Manage:
 - Music & movies
@@ -8,9 +8,9 @@ The aim is to have a docker-compose to Manage:
 - Backups
 - Notes & databases
 
-## Structure
+# Structure
 So the docker containers to manage will be:
-### Core stack:
+## Core stack:
 - **OPNsnese:** firewall and routing platform.
 - **Xray:** advanced proxy engine.
 - **Clash:** rule-based proxy manager.
@@ -18,7 +18,7 @@ So the docker containers to manage will be:
 - **Headscale:** self-hosted implementation of the Tailscale control server.
 - **Proxmox:** manage VM, containers LXC and backups.
 - **Uptimekuma:** monitor everythings and get notifications.
-### Media stack:
+## Media stack:
 - **Navidrome:** manage music, like hosted spotify.
 - **Jellyfin:** self-hosted media server to organize, stream, and access all media.
 - **Sonarr:** search and download series.
@@ -27,14 +27,14 @@ So the docker containers to manage will be:
 - **qBittorrent:** download torrents.
 - **Pinchflat:** self-hosted app for downloading YouTube what integrates with Jellyfin.
 - **Audiobookshelf:** self-hosted media server for your audiobooks and podcasts.
-### File storage stack:
+## File storage stack:
 - **UGreen NAS:** store files & manage media stack: music, movies, series.
 - **NextCloud:** self-hosted cloud platform for file storage, like Google Drive.
 - **Immich:** self-hosted photo and video backup and management platform, like Google Photos.
-### Home Automation:
+## Home Automation:
 - **Home Assistant:** home automation platform to connect and control all smart devices at home.
 - **Frigate:** integrates with Home Assistant to detect objects or people with AI.
-### Others:
+## Others:
 - **Mailcow:** email server suite.
 - **Obsidian:** notes and databases (runs local).
 - **Pi-hole:** ad blocker.
@@ -44,4 +44,4 @@ So the docker containers to manage will be:
 - **Paperless:** document management system that works with tags and AI.
 - **Karakeep:** self-hostable bookmark-everything app with AI for the tagging.
 
-## Description of each part:
+# Description of each part:
