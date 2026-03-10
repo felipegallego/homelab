@@ -47,10 +47,10 @@ So the docker containers to manage will be:
 # ➡️ Description of each part:
 # ➡️ Status of each part:
 
-| App | Status | Branch name | Priority | Dev order |
-| :---: | :---: | :---: | :---: | :---: |
-| Opnsense | not started | - | high | 2 |
-| Xray | not started | - | medium | - |
+| App | Type | Status | Branch name | Priority | Dev order |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| Opnsense| Core | not started | - | high | 2 |
+| Xray | Core | not started | - | medium | - |
 
 
 
