@@ -46,6 +46,7 @@ So the docker containers to manage will be:
 
 # ➡️ Description of each part:
 # ➡️ Status of each part:
+
 | App | Status | Priority |
 --------------------------
 | Opnsense | not started | high |
