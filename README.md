@@ -8,7 +8,7 @@ The aim is to have a docker-compose to Manage:
 - Backups
 - Notes & databases
 
-# Structure
+# ➡️ Structure
 So the docker containers to manage will be:
 ## Core stack:
 - **OPNsnese:** firewall and routing platform.
