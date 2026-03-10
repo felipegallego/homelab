@@ -44,4 +44,4 @@ So the docker containers to manage will be:
 - **Paperless:** document management system that works with tags and AI.
 - **Karakeep:** self-hostable bookmark-everything app with AI for the tagging.
 
-# Description of each part:
+# ➡️ Description of each part:
