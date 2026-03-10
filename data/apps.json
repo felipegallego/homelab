@@ -1,0 +1,41 @@
+[
+  {
+    "name": "Navidrome",
+    "category": "media",
+    "branch": "navidrome",
+    "priority": "high",
+    "dev_order": 1,
+    "status": "planned",
+    "port": 4533,
+    "description": "Music streaming server"
+  },
+  {
+    "name": "Jellyfin",
+    "category": "media",
+    "branch": "jellyfin",
+    "priority": "medium",
+    "dev_order": 2,
+    "status": "planned",
+    "port": 8096,
+    "description": "Movies and TV media server"
+  },
+  {
+    "name": "OPNsense",
+    "category": "network",
+    "branch": "opnsense",
+    "priority": "high",
+    "dev_order": 3,
+    "status": "planned",
+    "port": 443,
+    "description": "Firewall and router"
+  },
+  {
+    "name": "Tailscale",
+    "category": "network",
+    "branch": "tailscale",
+    "priority": "high",
+    "dev_order": 4,
+    "status": "planned",
+    "description": "Mesh VPN"
+  }
+]

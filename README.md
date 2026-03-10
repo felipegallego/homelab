@@ -54,3 +54,12 @@ So the docker containers to manage will be:
 
 
 
+Dataset: [apps.json](data/apps.json)
+
+## Media Services
+<!-- MEDIA_TABLE_START -->
+<!-- MEDIA_TABLE_END -->
+
+## Network Services
+<!-- NETWORK_TABLE_START -->
+<!-- NETWORK_TABLE_END -->
