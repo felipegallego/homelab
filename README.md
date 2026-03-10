@@ -17,6 +17,7 @@ So the docker containers to manage will be:
 - Personal NAS: hdd, music, movies
 - *To think in one to manage movies/series online*
 - Home Assistant: home automation
+- Pi-hole: ad blocker
 - Frigate: integrates with Home Assistant to detect objects or people with AI
 - Obsidian: notes and databases (runs local)
 
