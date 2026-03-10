@@ -20,5 +20,6 @@ So the docker containers to manage will be:
 - Pi-hole: ad blocker
 - Frigate: integrates with Home Assistant to detect objects or people with AI
 - Obsidian: notes and databases (runs local)
+- Mailcow: email server suite
 
 ## Description of each part:
