@@ -11,13 +11,13 @@ The aim is to have a docker-compose to Manage:
 ## Structure
 So the docker containers to manage will be:
 ### **Core stack:**
-    - **OPNsnese:** firewall and routing platform.
-    - **Xray:** advanced proxy engine.
-    - **Clash:** rule-based proxy manager.
-    - **Tailscale:** mesh VPN.
-    - **Headscale:** self-hosted implementation of the Tailscale control server.
-    - **Proxmox:** manage VM, containers LXC and backups.
-    - **Uptimekuma:** monitor everythings and get notifications.
+- **OPNsnese:** firewall and routing platform.
+- **Xray:** advanced proxy engine.
+- **Clash:** rule-based proxy manager.
+- **Tailscale:** mesh VPN.
+- **Headscale:** self-hosted implementation of the Tailscale control server.
+- **Proxmox:** manage VM, containers LXC and backups.
+- **Uptimekuma:** monitor everythings and get notifications.
 - **Media stack:**
     - Navidrome: manage music, like hosted spotify.
     - Jellyfin: self-hosted media server to organize, stream, and access all media.
