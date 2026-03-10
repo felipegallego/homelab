@@ -49,6 +49,6 @@ So the docker containers to manage will be:
 | App | Status | Priority |
 --------------------------
 | Opnsense | not started | high |
-| Xray |not started |medium |
+| Xray |not started | medium |
 -------------------------
 
