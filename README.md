@@ -37,6 +37,7 @@ So the docker containers to manage will be:
 ## AI Assistant:
 - **Ollama:** *Local engine*. Platform to run large language models (LLMs) locally.
 - **DeepSeek:** *Brain*. Advanced AI assistant powered by DeepSeek-V3 or DeepSeek-R1 models that operate autonomously to handle complex, multi-step tasks.
+- ... (try other AI models to verity which one works the best)
 - **OpenClaw:** *Hands/Agent*. AI Agent framework. Executes and automates things on the computer: move files, open browser to do staff, send emails, interact with your apps.
   
 ## Others:
