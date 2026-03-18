@@ -34,13 +34,17 @@ So the docker containers to manage will be:
 ## Home Automation:
 - **Home Assistant:** home automation platform to connect and control all smart devices at home.
 - **Frigate:** integrates with Home Assistant to detect objects or people with AI.
+## AI Assistant:
+- **Ollama:** ***Local engine***. Platform to run large language models (LLMs) locally.
+- **DeepSeek:**: ***Brain***. Advanced AI assistant powered by DeepSeek-V3 or DeepSeek-R1 models that operate autonomously to handle complex, multi-step tasks.
+- **OpenClaw:**: ***Hands/Agent***. AI Agent framework. Executes and automates things on the computer: move files, open browser to do staff, send emails, interact with your apps.
+  
 ## Others:
 - **Mailcow:** email server suite.
 - **Obsidian:** notes and databases (runs local).
 - **Pi-hole:** ad blocker.
 - **IsponsorblockTV:** self-hosted application that connects to your YouTube TV app (see compatibility below) and automatically skips segments (like Sponsors or intros).
 - **Homebox:** simple inventory and organization system with QR codes.
-- **Ollama:** platform to run large language models (LLMs) locally.
 - **Paperless:** document management system that works with tags and AI.
 - **Karakeep:** self-hostable bookmark-everything app with AI for the tagging.
 
