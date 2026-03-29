@@ -39,7 +39,7 @@ So the docker containers to manage will be:
 - **DeepSeek:** *Brain*. Advanced AI assistant powered by DeepSeek-V3 or DeepSeek-R1 models that operate autonomously to handle complex, multi-step tasks.
 - ... (try other AI models to verity which one works the best)
 - **OpenClaw:** *Hands/Agent*. AI Agent framework. Executes and automates things on the computer: move files, open browser to do staff, send emails, interact with your apps.
-  
+- **AnythingLLM:** *RAG*. All-in-one AI application that can do RAG, AI Agents, and more.
 ## Others:
 - **Mailcow:** email server suite.
 - **Obsidian:** notes and databases (runs local).
