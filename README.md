@@ -40,6 +40,7 @@ So the docker containers to manage will be:
 - ... (try other AI models to verity which one works the best)
 - **OpenClaw:** *Hands/Agent*. AI Agent framework. Executes and automates things on the computer: move files, open browser to do staff, send emails, interact with your apps.
 - **AnythingLLM:** *RAG*. All-in-one AI application that can do RAG, AI Agents, and more.
+- **[local-Ilm-pdf-ocr](https://github.com/ahnafnafee/local-llm-pdf-ocr):** *OCR*. Converts a scanned pdf file into searchable PDF file.
 ## Others:
 - **Mailcow:** email server suite.
 - **Obsidian:** notes and databases (runs local).
